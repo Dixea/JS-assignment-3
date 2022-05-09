@@ -1,0 +1,1 @@
+$( "p" ).add( "<span>Add new paragraph</span>" ).appendTo( document.body );
